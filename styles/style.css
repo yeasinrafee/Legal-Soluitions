@@ -26,3 +26,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.frame{
+    height: 40px;
+    width: 40px;
+    margin: 0 auto;
+}
