@@ -31,3 +31,39 @@ body{
     width: 40px;
     margin: 0 auto;
 }
+
+.slide-1{
+    background-image: url('../images/slider-1.jpg');
+    background-color: grey;
+    background-blend-mode: multiply;
+    height: 60vh;
+    border-radius: 8px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slide-2{
+    background-image: url('../images/slider-2.jpg');
+    background-color: grey;
+    background-blend-mode: multiply;
+    height: 60vh;
+    border-radius: 8px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slide-3{
+    background-image: url('../images/slider-3.jpg');
+    background-color: grey;
+    background-blend-mode: multiply;
+    height: 60vh;
+    border-radius: 8px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.user-img{
+    width: 70px;
+    height: 70px;
+}
