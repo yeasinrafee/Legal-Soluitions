@@ -67,3 +67,7 @@ body{
     width: 70px;
     height: 70px;
 }
+
+.bg-accordion{
+    background-color: #F3F3F3;
+}
