@@ -3,6 +3,8 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+/* Custom Buttons */
 .button{
     padding: 18px 30px;
     color: #ffffff;
@@ -25,6 +27,7 @@ body{
     transform: rotate(-45deg);
 }
 
+/* Custom CSS Styles */
 .banner{
     background-image: url('../images/banner.png');
     background-color: grey;
